@@ -1,0 +1,96 @@
+---
+id: xy4-77
+name: Goodra
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Dragon
+evolvesFrom: Sliggoo
+abilities:
+- name: Slip Trip
+  text: Each player can't attach any Pokémon Tool cards from his or her hand to any
+    of his or her Pokémon.
+  type: Ability
+attacks:
+- name: Dragon Pulse
+  cost:
+  - Water
+  - Fairy
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '130'
+  text: Discard the top card of your deck.
+weaknesses:
+- type: Fairy
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy4
+  name: Phantom Forces
+  series: XY
+  printedTotal: 119
+  total: 124
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PHF
+  releaseDate: 2014/11/05
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy4/symbol.png
+    logo: https://images.pokemontcg.io/xy4/logo.png
+number: '77'
+artist: 5ban Graphics
+rarity: Rare Holo
+flavorText: This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving
+  that Trainer covered in sticky slime.
+nationalPokedexNumbers:
+- 706
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy4/77.png
+  large: https://images.pokemontcg.io/xy4/77_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy4-77
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 0.44
+      mid: 0.99
+      high: 4.95
+      market: 0.94
+      directLow: 0.6
+    reverseHolofoil:
+      low: 0.6
+      mid: 0.97
+      high: 3.05
+      market: 0.82
+      directLow: 0.89
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy4-77
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.0
+    lowPrice: 0.3
+    trendPrice: 1.33
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.4
+    reverseHoloLow: 0.5
+    reverseHoloTrend: 1.82
+    lowPriceExPlus: 0.79
+    avg1: 2.0
+    avg7: 1.42
+    avg30: 1.58
+    reverseHoloAvg1: 1.4
+    reverseHoloAvg7: 1.72
+    reverseHoloAvg30: 1.55

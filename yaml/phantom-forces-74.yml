@@ -1,0 +1,96 @@
+---
+id: xy4-74
+name: Hydreigon
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Dragon
+evolvesFrom: Zweilous
+abilities:
+- name: Dark Impulse
+  text: Once during your turn (before your attack), you may attach a Darkness Energy
+    card from your discard pile to your Active Pokémon.
+  type: Ability
+attacks:
+- name: Crazy Headbutt
+  cost:
+  - Psychic
+  - Darkness
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '130'
+  text: Discard an Energy attached to this Pokémon.
+weaknesses:
+- type: Fairy
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy4
+  name: Phantom Forces
+  series: XY
+  printedTotal: 119
+  total: 124
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PHF
+  releaseDate: 2014/11/05
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy4/symbol.png
+    logo: https://images.pokemontcg.io/xy4/logo.png
+number: '74'
+artist: 5ban Graphics
+rarity: Rare Holo
+flavorText: Their heads on their arms do not have brains. They use all three heads
+  to consume and destroy everything.
+nationalPokedexNumbers:
+- 635
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy4/74.png
+  large: https://images.pokemontcg.io/xy4/74_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy4-74
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 0.55
+      mid: 0.89
+      high: 5.0
+      market: 0.81
+      directLow: 0.62
+    reverseHolofoil:
+      low: 0.59
+      mid: 0.96
+      high: 5.07
+      market: 0.88
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy4-74
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 2.5
+    lowPrice: 0.45
+    trendPrice: 1.67
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.45
+    reverseHoloTrend: 2.31
+    lowPriceExPlus: 0.5
+    avg1: 4.0
+    avg7: 1.79
+    avg30: 1.39
+    reverseHoloAvg1: 1.25
+    reverseHoloAvg7: 2.15
+    reverseHoloAvg30: 1.78
